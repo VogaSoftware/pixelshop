@@ -1,0 +1,22 @@
+{
+  "name": "pixelshop",
+  "version": "1.5.2",
+  "description": "A photo editor based arround miniPaint by viliusle",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/vogasoftware/pixelshop",
+  "keywords": [
+    "photo",
+    "editor",
+    "web",
+    "html",
+    "electron"
+  ],
+  "author": "Voga Software",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
